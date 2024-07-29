@@ -46,5 +46,6 @@ public class Trie_structure {
         System.out.println(trie.search("app")); 
         System.out.println(trie.search("apple"));
         System.out.println(trie.Prefix_search("app"));
+        System.out.println(trie.Prefix_search("apppppp"));
     }
 }
