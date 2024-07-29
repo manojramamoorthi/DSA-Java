@@ -1,0 +1,13 @@
+Hashing:
+     Hashing is a process used to uniquely identify the object and store them in a structure called Hash table.
+Hash code:
+     Result of hash function is called Hash code.
+Types of Hash Function:-
+     *extraction
+     *Division(Modular)
+     *Multiplication
+     *Mid square
+     *Folding method
+     *cryptographic
+     *Universal
+     *Perfect.
